@@ -8,6 +8,10 @@
 * **Touch Screen** - WACF2200 (TPL1)
 * **Touch Pad** - ELAN06FA (TPDD)
 
+### ⚠️ Post-Download Note
+* Before booting this EFI, make sure to generate your own SMBIOS serial numbers (`SystemSerialNumber`, `MLB`, `SystemUUID`, `ROM`) using **GenSMBIOS** for `MacBookPro16,2`.
+* If you want to install macOS Sonoma, use (`AirportItlwm`) for Wi-Fi, for Sequoia use (`AirportItlwm`) with OCLP patches, for Tahoe, use (`Itlwm`) + Heliport app
+
 ### 🟢 Working Features
 * **Operating System:** macOS Sonoma (14.x)/macOS Sequoia (15.x)/macOS Tahoe (26.x)
 * **CPU Power Management:** Full dynamic frequency scaling & thermal management (`AMDRyzenCPUPowerManagement` + `SMCAMDProcessor`)
