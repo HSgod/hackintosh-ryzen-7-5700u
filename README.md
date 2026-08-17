@@ -9,7 +9,7 @@
 * **Touch Pad** - ELAN06FA (TPDD)
 
 ### 🟢 Working Features
-* **Operating System:** macOS Sonoma (14.x)
+* **Operating System:** macOS Sonoma (14.x)/macOS Sequoia (15.x)/macOS Tahoe (26.x)
 * **CPU Power Management:** Full dynamic frequency scaling & thermal management (`AMDRyzenCPUPowerManagement` + `SMCAMDProcessor`)
 * **Hardware Monitoring:** Real-time CPU temperature, clock speed & power draw readouts via VirtualSMC plugins
 * **Graphics Acceleration:** AMD Radeon RX Vega 8 (`NootedRed` – full Metal & OpenGL acceleration)
