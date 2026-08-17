@@ -1,4 +1,12 @@
-# OpenCore EFI for Lenovo IdeaPad Flex 5 (AMD Ryzen 7 5700U)
+# EFI for Lenovo IdeaPad Flex 5 (AMD Ryzen 7 5700U)
+
+### Specs
+**CPU** - Ryzen 7 5700U
+**RAM** - 16GB DDR4 4266MHz
+**GPU** - Vega 8
+**WIFI** - Intel AX200
+**Touch Screen** - WACF2200 (TPL1)
+**Touch Pad** - ELAN06FA (TPDD)
 
 ### 🟢 Working Features
 * **Operating System:** macOS Sonoma (14.x)
