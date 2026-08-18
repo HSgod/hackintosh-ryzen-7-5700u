@@ -6,7 +6,7 @@
 * **GPU** - Vega 8
 * **WIFI** - Intel AX200
 * **Touch Screen** - WACF2200 (TPL1)
-* **Touch Pad** - ELAN06FA (TPDD)
+* **Touch Pad** - SYNA2BA6 (TPDD)
 
 ### ⚠️ Post-Download Note
 * Before booting this EFI, make sure to generate your own SMBIOS serial numbers (`SystemSerialNumber`, `MLB`, `SystemUUID`, `ROM`) using **GenSMBIOS** for `MacBookPro16,2`.
